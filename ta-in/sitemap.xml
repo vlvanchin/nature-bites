@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vlvanchin.github.io/nature-bites/ta-in/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://vlvanchin.github.io/nature-bites/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vlvanchin.github.io/nature-bites/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta-in"
+                href="https://vlvanchin.github.io/nature-bites/ta-in/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vlvanchin.github.io/nature-bites/ta-in/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://vlvanchin.github.io/nature-bites/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vlvanchin.github.io/nature-bites/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta-in"
+                href="https://vlvanchin.github.io/nature-bites/ta-in/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vlvanchin.github.io/nature-bites/ta-in/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://vlvanchin.github.io/nature-bites/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vlvanchin.github.io/nature-bites/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta-in"
+                href="https://vlvanchin.github.io/nature-bites/ta-in/tags/"
+                />
+  </url>
+  
+</urlset>
