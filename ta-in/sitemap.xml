@@ -7,11 +7,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://vlvanchin.github.io/nature-bites/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://vlvanchin.github.io/nature-bites/categories/"
                 />
@@ -27,11 +22,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://vlvanchin.github.io/nature-bites/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://vlvanchin.github.io/nature-bites/"
                 />
@@ -45,11 +35,6 @@
   <url>
     <loc>https://vlvanchin.github.io/nature-bites/ta-in/tags/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://vlvanchin.github.io/nature-bites/zh-cn/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
