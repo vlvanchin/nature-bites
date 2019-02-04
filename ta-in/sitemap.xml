@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-inspired/ta-in/categories/</loc>
+    <loc>http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/ta-in/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vlvanchin.github.io/nature-inspired/categories/"
+                href="http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta-in"
-                href="https://vlvanchin.github.io/nature-inspired/ta-in/categories/"
+                href="http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/ta-in/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-inspired/ta-in/</loc>
+    <loc>http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/ta-in/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vlvanchin.github.io/nature-inspired/"
+                href="http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta-in"
-                href="https://vlvanchin.github.io/nature-inspired/ta-in/"
+                href="http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/ta-in/"
                 />
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-inspired/ta-in/tags/</loc>
+    <loc>http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/ta-in/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vlvanchin.github.io/nature-inspired/tags/"
+                href="http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta-in"
-                href="https://vlvanchin.github.io/nature-inspired/ta-in/tags/"
+                href="http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/ta-in/tags/"
                 />
   </url>
   

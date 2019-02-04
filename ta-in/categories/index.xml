@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nature Inspired</title>
-    <link>https://vlvanchin.github.io/nature-inspired/ta-in/categories/</link>
+    <link>http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/ta-in/categories/</link>
     <description>Recent content in Categories on Nature Inspired</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vlvanchin.github.io/nature-inspired/ta-in/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/ta-in/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
