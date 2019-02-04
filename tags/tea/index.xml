@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tea on Nature Inspired</title>
-    <link>https://vlvanchin.github.io/nature-inspired/tags/tea/</link>
+    <link>http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/tags/tea/</link>
     <description>Recent content in Tea on Nature Inspired</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Oct 2018 11:40:11 +0200</lastBuildDate>
     
-	<atom:link href="https://vlvanchin.github.io/nature-inspired/tags/tea/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/tags/tea/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Butterfly Pea Tea</title>
-      <link>https://vlvanchin.github.io/nature-inspired/posts/first/</link>
+      <link>http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/posts/first/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
       
-      <guid>https://vlvanchin.github.io/nature-inspired/posts/first/</guid>
+      <guid>http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/posts/first/</guid>
       <description>Blue Tea (Butterfly blue tea) The most beautiful and tasty blue drink ever! Also Butterfly Pea flower has a lot of benifits. :)</description>
     </item>
     
