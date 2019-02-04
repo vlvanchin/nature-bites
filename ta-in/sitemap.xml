@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/ta-in/categories/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/ta-in/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vlvanchin.github.io/nature-bites/categories/"
+                href="https://vlvanchin.github.io/nature-inspired/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta-in"
-                href="https://vlvanchin.github.io/nature-bites/ta-in/categories/"
+                href="https://vlvanchin.github.io/nature-inspired/ta-in/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/ta-in/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/ta-in/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vlvanchin.github.io/nature-bites/"
+                href="https://vlvanchin.github.io/nature-inspired/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta-in"
-                href="https://vlvanchin.github.io/nature-bites/ta-in/"
+                href="https://vlvanchin.github.io/nature-inspired/ta-in/"
                 />
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/ta-in/tags/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/ta-in/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vlvanchin.github.io/nature-bites/tags/"
+                href="https://vlvanchin.github.io/nature-inspired/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta-in"
-                href="https://vlvanchin.github.io/nature-bites/ta-in/tags/"
+                href="https://vlvanchin.github.io/nature-inspired/ta-in/tags/"
                 />
   </url>
   

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nature Bites</title>
-    <link>https://vlvanchin.github.io/nature-bites/</link>
-    <description>Recent content on Nature Bites</description>
+    <title>Nature Inspired</title>
+    <link>https://vlvanchin.github.io/nature-inspired/</link>
+    <description>Recent content on Nature Inspired</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Nov 2018 00:28:38 +0000</lastBuildDate>
     
-	<atom:link href="https://vlvanchin.github.io/nature-bites/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vlvanchin.github.io/nature-inspired/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About W3 Simple</title>
-      <link>https://vlvanchin.github.io/nature-bites/about/</link>
+      <link>https://vlvanchin.github.io/nature-inspired/about/</link>
       <pubDate>Sat, 10 Nov 2018 00:28:38 +0000</pubDate>
       
-      <guid>https://vlvanchin.github.io/nature-bites/about/</guid>
+      <guid>https://vlvanchin.github.io/nature-inspired/about/</guid>
       <description>This about page</description>
     </item>
     
     <item>
       <title>Butterfly Pea Tea</title>
-      <link>https://vlvanchin.github.io/nature-bites/posts/first/</link>
+      <link>https://vlvanchin.github.io/nature-inspired/posts/first/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
       
-      <guid>https://vlvanchin.github.io/nature-bites/posts/first/</guid>
+      <guid>https://vlvanchin.github.io/nature-inspired/posts/first/</guid>
       <description>Blue Tea (Butterfly blue tea) The most beautiful and tasty blue drink ever! Also Butterfly Pea flower has a lot of benifits. :)</description>
     </item>
     

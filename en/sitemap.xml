@@ -3,94 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/about/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/about/</loc>
     <lastmod>2018-11-10T00:28:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/posts/first/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/posts/first/</loc>
     <lastmod>2018-10-07T11:40:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/tags/blue-blood/</loc>
-    <lastmod>2018-10-07T11:40:11+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vlvanchin.github.io/nature-bites/tags/butterfly-pea/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/tags/blue-blood/</loc>
     <lastmod>2018-10-07T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/categories/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/tags/butterfly-pea/</loc>
+    <lastmod>2018-10-07T11:40:11+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vlvanchin.github.io/nature-inspired/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta-in"
-                href="https://vlvanchin.github.io/nature-bites/ta-in/categories/"
+                href="https://vlvanchin.github.io/nature-inspired/ta-in/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vlvanchin.github.io/nature-bites/categories/"
+                href="https://vlvanchin.github.io/nature-inspired/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/</loc>
     <lastmod>2018-11-10T00:28:38+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta-in"
-                href="https://vlvanchin.github.io/nature-bites/ta-in/"
+                href="https://vlvanchin.github.io/nature-inspired/ta-in/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vlvanchin.github.io/nature-bites/"
+                href="https://vlvanchin.github.io/nature-inspired/"
                 />
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/tags/pea-tea/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/tags/pea-tea/</loc>
     <lastmod>2018-10-07T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/posts/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/posts/</loc>
     <lastmod>2018-10-07T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/tags/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/tags/</loc>
     <lastmod>2018-10-07T11:40:11+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta-in"
-                href="https://vlvanchin.github.io/nature-bites/ta-in/tags/"
+                href="https://vlvanchin.github.io/nature-inspired/ta-in/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vlvanchin.github.io/nature-bites/tags/"
+                href="https://vlvanchin.github.io/nature-inspired/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/tags/tea/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/tags/tea/</loc>
     <lastmod>2018-10-07T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vlvanchin.github.io/nature-bites/categories/tea/</loc>
+    <loc>https://vlvanchin.github.io/nature-inspired/categories/tea/</loc>
     <lastmod>2018-10-07T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>

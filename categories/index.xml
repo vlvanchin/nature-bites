@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Nature Bites</title>
-    <link>https://vlvanchin.github.io/nature-bites/categories/</link>
-    <description>Recent content in Categories on Nature Bites</description>
+    <title>Categories on Nature Inspired</title>
+    <link>https://vlvanchin.github.io/nature-inspired/categories/</link>
+    <description>Recent content in Categories on Nature Inspired</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vlvanchin.github.io/nature-bites/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vlvanchin.github.io/nature-inspired/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tea</title>
-      <link>https://vlvanchin.github.io/nature-bites/categories/tea/</link>
+      <link>https://vlvanchin.github.io/nature-inspired/categories/tea/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
       
-      <guid>https://vlvanchin.github.io/nature-bites/categories/tea/</guid>
+      <guid>https://vlvanchin.github.io/nature-inspired/categories/tea/</guid>
       <description></description>
     </item>
     
